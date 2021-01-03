@@ -39,4 +39,4 @@ Newton = Math.floor(Newton);
 // Output in Fahrenheight & Newton
 console.log(`The temperature is ${Fahrenheight} degrees fahrenheight`);
 
-console.log(`The temperature is ${Fahrenheight} degrees fahrenheight`);
+console.log(`The temperature is ${Newton} in Newton`);
