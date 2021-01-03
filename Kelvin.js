@@ -11,3 +11,9 @@ const CELSIUS =  KELVIN - 273;
 
 //This is the formula for fahrenheight
 let Fahrenheight = CELSIUS * (9/5) + 32;
+
+
+//Now the fahrenheight will be rounded to the nearest whole number
+Fahrenheight = Math.floor(Fahrenheight);
+
+console.log("The temperature is ");
